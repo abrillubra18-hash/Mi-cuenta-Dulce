@@ -5,6 +5,9 @@ WhatsApp, ventas por forma de pago, gastos por categoría y balance general.
 
 Next.js (App Router) + Supabase (Auth con Google + Postgres).
 
+<!-- Proyecto en desarrollo activo 🍪 -->
+
+
 ## Setup
 
 1. Copiá `.env.local.example` a `.env.local` y completá la anon key de Supabase:
